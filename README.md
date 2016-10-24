@@ -1,2 +1,2 @@
-# GameShop
-Developed a user interface using HTML, CSS, JavaScript for viewing the information about various games and equipment.
+# GAMESHOP
+Developed a simple UI where user admin enter games and store it in the database and customer can search for available games.
